@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hannahfk
-- 👀 I’m interested in everything tech, but particularly the EdTech and HealthTech spheres. 
+- 👀 I’m interested in everything tech, but particularly big data and AI. 
 - 🌱 I’m currently learning about the Context API and GraphQL.
 - 💞️ I’m looking to collaborate on creating libraries, open source...
 - 📫 How to reach me: linkedIn: www.linkedin.com/in/hannahkemp12
